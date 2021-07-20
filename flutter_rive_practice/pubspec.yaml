@@ -1,0 +1,11 @@
+name: flutter_rive_practice
+version: 1.0.0+1
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  rive: ^0.7.23
+flutter:
+  assets:
+    - assets/loader.riv
